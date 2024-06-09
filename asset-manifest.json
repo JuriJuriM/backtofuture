@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/backtofuture/static/css/main.44bd100c.css",
-    "main.js": "/backtofuture/static/js/main.48c26a45.js",
+    "main.css": "/backtofuture/static/css/main.c9450d14.css",
+    "main.js": "/backtofuture/static/js/main.2a4ced0c.js",
+    "static/media/doc.jpg": "/backtofuture/static/media/doc.b712c7697666e37912f5.jpg",
+    "static/media/pickture.png": "/backtofuture/static/media/pickture.3eaf881b00fa193800f4.png",
     "static/media/first.jpg": "/backtofuture/static/media/first.d0ca3b85e072e82ececf.jpg",
+    "static/media/start.jpg": "/backtofuture/static/media/start.57f6d4d3280cbd1b8c23.jpg",
     "static/media/marthin.jpg": "/backtofuture/static/media/marthin.6860bbb33101ebcac42a.jpg",
+    "static/media/parttwo.jpg": "/backtofuture/static/media/parttwo.206216988f6d11cbfd6c.jpg",
     "static/media/backtothefuture.jpg": "/backtofuture/static/media/backtothefuture.01923c0ac0e77f3cb842.jpg",
     "static/media/delorian.jpg": "/backtofuture/static/media/delorian.ea33a54f64b807650eca.jpg",
     "static/media/second.jpg": "/backtofuture/static/media/second.c00264215a1dd681d869.jpg",
     "static/media/panorama.jpg": "/backtofuture/static/media/panorama.58e235440aa431754824.jpg",
     "static/media/girlfriend.jpg": "/backtofuture/static/media/girlfriend.6704f3f0de2b361fac07.jpg",
+    "static/media/biff.jpg": "/backtofuture/static/media/biff.d61fbbed0188a4914a84.jpg",
+    "static/media/twomarthy.jpg": "/backtofuture/static/media/twomarthy.aafe4c601f498576b981.jpg",
     "static/media/mainpickture.jpg": "/backtofuture/static/media/mainpickture.5405c028bec6ba76a9ed.jpg",
+    "static/media/max.jpg": "/backtofuture/static/media/max.e171fc089a35c73aded5.jpg",
     "static/media/thebest.jpg": "/backtofuture/static/media/thebest.2f0f983543edf051cfc8.jpg",
     "index.html": "/backtofuture/index.html",
-    "main.44bd100c.css.map": "/backtofuture/static/css/main.44bd100c.css.map",
-    "main.48c26a45.js.map": "/backtofuture/static/js/main.48c26a45.js.map"
+    "main.c9450d14.css.map": "/backtofuture/static/css/main.c9450d14.css.map",
+    "main.2a4ced0c.js.map": "/backtofuture/static/js/main.2a4ced0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.44bd100c.css",
-    "static/js/main.48c26a45.js"
+    "static/css/main.c9450d14.css",
+    "static/js/main.2a4ced0c.js"
   ]
 }
