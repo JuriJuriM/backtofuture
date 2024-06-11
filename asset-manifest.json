@@ -1,29 +1,40 @@
 {
   "files": {
-    "main.css": "/backtofuture/static/css/main.c9450d14.css",
-    "main.js": "/backtofuture/static/js/main.2a4ced0c.js",
+    "main.css": "/backtofuture/static/css/main.36ce5836.css",
+    "main.js": "/backtofuture/static/js/main.2d189ce9.js",
     "static/media/doc.jpg": "/backtofuture/static/media/doc.b712c7697666e37912f5.jpg",
     "static/media/pickture.png": "/backtofuture/static/media/pickture.3eaf881b00fa193800f4.png",
     "static/media/first.jpg": "/backtofuture/static/media/first.d0ca3b85e072e82ececf.jpg",
     "static/media/start.jpg": "/backtofuture/static/media/start.57f6d4d3280cbd1b8c23.jpg",
+    "static/media/threeparts.jpg": "/backtofuture/static/media/threeparts.cbc98a4b3a45b2f1a904.jpg",
+    "static/media/back3.jpeg": "/backtofuture/static/media/back3.d365e388d78633119879.jpeg",
+    "static/media/delory.jpg": "/backtofuture/static/media/delory.a876bb9784b2b4629956.jpg",
     "static/media/marthin.jpg": "/backtofuture/static/media/marthin.6860bbb33101ebcac42a.jpg",
     "static/media/parttwo.jpg": "/backtofuture/static/media/parttwo.206216988f6d11cbfd6c.jpg",
     "static/media/backtothefuture.jpg": "/backtofuture/static/media/backtothefuture.01923c0ac0e77f3cb842.jpg",
+    "static/media/biffold.jpg": "/backtofuture/static/media/biffold.7ef6c49d82b6a537a2bf.jpg",
+    "static/media/best.jpg": "/backtofuture/static/media/best.392d6c6c7c974ae01c08.jpg",
     "static/media/delorian.jpg": "/backtofuture/static/media/delorian.ea33a54f64b807650eca.jpg",
     "static/media/second.jpg": "/backtofuture/static/media/second.c00264215a1dd681d869.jpg",
+    "static/media/delfirst.jpg": "/backtofuture/static/media/delfirst.fd57fefbce0aee761440.jpg",
+    "static/media/inacar.jpg": "/backtofuture/static/media/inacar.cf2e855e2277187b2a55.jpg",
     "static/media/panorama.jpg": "/backtofuture/static/media/panorama.58e235440aa431754824.jpg",
+    "static/media/timemashine.jpg": "/backtofuture/static/media/timemashine.b3ecda68ece01211b0ee.jpg",
     "static/media/girlfriend.jpg": "/backtofuture/static/media/girlfriend.6704f3f0de2b361fac07.jpg",
     "static/media/biff.jpg": "/backtofuture/static/media/biff.d61fbbed0188a4914a84.jpg",
     "static/media/twomarthy.jpg": "/backtofuture/static/media/twomarthy.aafe4c601f498576b981.jpg",
+    "static/media/watches.jpg": "/backtofuture/static/media/watches.386ea11ddc67702275e0.jpg",
     "static/media/mainpickture.jpg": "/backtofuture/static/media/mainpickture.5405c028bec6ba76a9ed.jpg",
     "static/media/max.jpg": "/backtofuture/static/media/max.e171fc089a35c73aded5.jpg",
+    "static/media/clara.jpg": "/backtofuture/static/media/clara.988d6749be35d7cd7196.jpg",
+    "static/media/mitting.jpg": "/backtofuture/static/media/mitting.9f34021deb3f905bda69.jpg",
     "static/media/thebest.jpg": "/backtofuture/static/media/thebest.2f0f983543edf051cfc8.jpg",
     "index.html": "/backtofuture/index.html",
-    "main.c9450d14.css.map": "/backtofuture/static/css/main.c9450d14.css.map",
-    "main.2a4ced0c.js.map": "/backtofuture/static/js/main.2a4ced0c.js.map"
+    "main.36ce5836.css.map": "/backtofuture/static/css/main.36ce5836.css.map",
+    "main.2d189ce9.js.map": "/backtofuture/static/js/main.2d189ce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9450d14.css",
-    "static/js/main.2a4ced0c.js"
+    "static/css/main.36ce5836.css",
+    "static/js/main.2d189ce9.js"
   ]
 }
