@@ -1,5 +1,6 @@
 .main {
     padding-top: 80px;
+    background: url("../../assets/img/delfirst.jpg") 50% / cover no-repeat fixed;
     &__title {
         text-align: center;
         font-size: 36px;
@@ -43,6 +44,24 @@
     }
     &__photo img {
         max-width: 100%;
+    }
+    &__titles {
+        font-style: italic;
+        color: #6d3939;
+        text-decoration: underline;
+        text-align: center;
+        font-size: 26px;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__from {
+        justify-content: center;
+        display: flex;
+    }
+    &__video {
+        width: 775px;
+        height: 442px;
+        margin-bottom: 20px;
     }
 }
 

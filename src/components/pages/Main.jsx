@@ -118,6 +118,12 @@ const Main = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='main__titles'>Marty McFly Plays "Johnny B. Goode" and "Earth Angel"</div>
+                    <div className='main__from'>
+                        <div className='main__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/T_WSXXPQYeY?si=KcBLR4eJ2M4DWpxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='main__mainpick'>
                         <img src={Panorama} alt='Panorama' />
                     </div>

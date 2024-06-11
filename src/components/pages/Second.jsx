@@ -88,6 +88,12 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='second__titles'>Back To The Future Part II (1989) Original Theatrical Trailer</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/M8kvj07HpFI?si=Eq9WrpmYmv8ezVHu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='second__parttwo'>
                         <img src={Pickture} alt='Pickture' />
                     </div>

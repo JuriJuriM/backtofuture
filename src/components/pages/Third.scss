@@ -1,3 +1,77 @@
 .third {
-    margin-top: 80px;
+    margin-top: 70px;
+    background: url("../../assets/img/delory.jpg") 50% / cover no-repeat fixed;
+    &__title {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 20px;
+        font-family: serif;
+        color: rgb(238, 234, 234);
+    }
+    &__back {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+    &__back img {
+        max-width: 100%;
+        display: block;
+    }
+    &__row {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+    &__column {
+        flex: 1 1 49.5%;
+    }
+    &__photo {
+        flex: 1 1 auto;
+        margin-bottom: 15px;
+    }
+    &__photo img {
+        max-width: 100%;
+    }
+    &__text {
+        font-size: 24px;
+        text-indent: 20px;
+        line-height: 1.5;
+        margin-bottom: 15px;
+        color: #ffffff;
+    }
+    &__titles {
+        font-style: italic;
+        color: #ffffff;
+        text-decoration: underline;
+        text-align: center;
+        font-size: 26px;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__from {
+        justify-content: center;
+        display: flex;
+    }
+    &__video {
+        width: 775px;
+        height: 442px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 410px) {
+    .third {
+        &__title {
+            font-size: 30px;
+        }
+    }
+}
+
+@media (max-width: 850px) {
+    .third {
+        &__row {
+            display: block;
+        }
+    }
 }
