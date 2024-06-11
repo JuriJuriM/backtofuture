@@ -1,12 +1,12 @@
 .third {
     margin-top: 70px;
-    background: url("../../assets/img/delory.jpg") 50% / cover no-repeat fixed;
+    //background: url("../../assets/img/delory.jpg") 50% / cover no-repeat fixed;
     &__title {
         text-align: center;
         font-size: 36px;
         margin-bottom: 20px;
         font-family: serif;
-        color: rgb(238, 234, 234);
+        color: #6d3939;
     }
     &__back {
         width: 100%;
@@ -38,11 +38,11 @@
         text-indent: 20px;
         line-height: 1.5;
         margin-bottom: 15px;
-        color: #ffffff;
+        color: #6d3939;
     }
     &__titles {
         font-style: italic;
-        color: #ffffff;
+        color: #6d3939;
         text-decoration: underline;
         text-align: center;
         font-size: 26px;

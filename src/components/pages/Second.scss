@@ -1,6 +1,6 @@
 .second {
     margin-top: 70px;
-    background: url("../../assets/img/imagefour.jpg") 50% / cover no-repeat fixed;
+    //background: url("../../assets/img/imagefour.jpg") 50% / cover no-repeat fixed;
     &__title {
         text-align: center;
         font-size: 36px;
@@ -38,11 +38,11 @@
         text-indent: 20px;
         line-height: 1.5;
         margin-bottom: 15px;
-        color: #ffffff;
+        color: rgb(223, 154, 26);
     }
     &__titles {
         font-style: italic;
-        color: #ffffff;
+        color: #6d3939;
         text-decoration: underline;
         text-align: center;
         font-size: 26px;
