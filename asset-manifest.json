@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/backtofuture/static/css/main.1e2146b8.css",
+    "main.css": "/backtofuture/static/css/main.f8309019.css",
     "main.js": "/backtofuture/static/js/main.141c03a9.js",
     "static/media/doc.jpg": "/backtofuture/static/media/doc.b712c7697666e37912f5.jpg",
     "static/media/pickture.png": "/backtofuture/static/media/pickture.3eaf881b00fa193800f4.png",
@@ -15,7 +15,6 @@
     "static/media/best.jpg": "/backtofuture/static/media/best.392d6c6c7c974ae01c08.jpg",
     "static/media/delorian.jpg": "/backtofuture/static/media/delorian.ea33a54f64b807650eca.jpg",
     "static/media/second.jpg": "/backtofuture/static/media/second.c00264215a1dd681d869.jpg",
-    "static/media/delfirst.jpg": "/backtofuture/static/media/delfirst.fd57fefbce0aee761440.jpg",
     "static/media/inacar.jpg": "/backtofuture/static/media/inacar.cf2e855e2277187b2a55.jpg",
     "static/media/panorama.jpg": "/backtofuture/static/media/panorama.58e235440aa431754824.jpg",
     "static/media/timemashine.jpg": "/backtofuture/static/media/timemashine.b3ecda68ece01211b0ee.jpg",
@@ -29,11 +28,11 @@
     "static/media/mitting.jpg": "/backtofuture/static/media/mitting.9f34021deb3f905bda69.jpg",
     "static/media/thebest.jpg": "/backtofuture/static/media/thebest.2f0f983543edf051cfc8.jpg",
     "index.html": "/backtofuture/index.html",
-    "main.1e2146b8.css.map": "/backtofuture/static/css/main.1e2146b8.css.map",
+    "main.f8309019.css.map": "/backtofuture/static/css/main.f8309019.css.map",
     "main.141c03a9.js.map": "/backtofuture/static/js/main.141c03a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e2146b8.css",
+    "static/css/main.f8309019.css",
     "static/js/main.141c03a9.js"
   ]
 }
