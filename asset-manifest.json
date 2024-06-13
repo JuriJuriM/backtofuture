@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/backtofuture/static/css/main.36ce5836.css",
-    "main.js": "/backtofuture/static/js/main.2d189ce9.js",
+    "main.css": "/backtofuture/static/css/main.1e2146b8.css",
+    "main.js": "/backtofuture/static/js/main.141c03a9.js",
     "static/media/doc.jpg": "/backtofuture/static/media/doc.b712c7697666e37912f5.jpg",
     "static/media/pickture.png": "/backtofuture/static/media/pickture.3eaf881b00fa193800f4.png",
     "static/media/first.jpg": "/backtofuture/static/media/first.d0ca3b85e072e82ececf.jpg",
     "static/media/start.jpg": "/backtofuture/static/media/start.57f6d4d3280cbd1b8c23.jpg",
     "static/media/threeparts.jpg": "/backtofuture/static/media/threeparts.cbc98a4b3a45b2f1a904.jpg",
     "static/media/back3.jpeg": "/backtofuture/static/media/back3.d365e388d78633119879.jpeg",
-    "static/media/delory.jpg": "/backtofuture/static/media/delory.a876bb9784b2b4629956.jpg",
     "static/media/marthin.jpg": "/backtofuture/static/media/marthin.6860bbb33101ebcac42a.jpg",
     "static/media/parttwo.jpg": "/backtofuture/static/media/parttwo.206216988f6d11cbfd6c.jpg",
     "static/media/backtothefuture.jpg": "/backtofuture/static/media/backtothefuture.01923c0ac0e77f3cb842.jpg",
@@ -30,11 +29,11 @@
     "static/media/mitting.jpg": "/backtofuture/static/media/mitting.9f34021deb3f905bda69.jpg",
     "static/media/thebest.jpg": "/backtofuture/static/media/thebest.2f0f983543edf051cfc8.jpg",
     "index.html": "/backtofuture/index.html",
-    "main.36ce5836.css.map": "/backtofuture/static/css/main.36ce5836.css.map",
-    "main.2d189ce9.js.map": "/backtofuture/static/js/main.2d189ce9.js.map"
+    "main.1e2146b8.css.map": "/backtofuture/static/css/main.1e2146b8.css.map",
+    "main.141c03a9.js.map": "/backtofuture/static/js/main.141c03a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.36ce5836.css",
-    "static/js/main.2d189ce9.js"
+    "static/css/main.1e2146b8.css",
+    "static/js/main.141c03a9.js"
   ]
 }
